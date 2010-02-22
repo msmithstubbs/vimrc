@@ -1,0 +1,10 @@
+colorscheme wombat
+set autoindent
+set smarttab
+set expandtab
+set shiftwidth=2
+set hlsearch
+set incsearch
+syntax on
+set ruler
+set visualbell
